@@ -1,4 +1,4 @@
-# ZEP — Template and instructions
+# ZEP — Template and Instructions
 
 ---
 
